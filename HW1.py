@@ -1,0 +1,4 @@
+# My home work
+
+a = "sunny day"
+print(a)
